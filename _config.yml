@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Coding_Record"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "고윤기(SCPKYG)"
 description              : "An amazing website."
 url                      : "https://SCPKYG.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
